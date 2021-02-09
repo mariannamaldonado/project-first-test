@@ -40,7 +40,7 @@ export default {
 <style lang="scss">
 .test{
   img{
-    max-height: 200px;
+    max-height: 250px;
   }
 }
 </style>
